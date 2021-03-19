@@ -1,8 +1,9 @@
 <?php
+
 namespace Tests;
 
 use \PHPUnit\Framework\TestCase;
-use \Sightengine\SightengineClient;
+use Sightengine\SightengineClient;
 
 class StackTest extends TestCase
 {
